@@ -22,11 +22,11 @@
   text-align: center;
   margin: 20px 0px;
   overflow-x: scroll;
-  scrollbar-width: none; /* Firefox */
+  /*scrollbar-width: none; /* Firefox */
 }
 
 .explore-menu-list::-webkit-scrollbar {
-  display: none; /* Chrome, Safari, Opera */
+  /*display: none; /* Chrome, Safari, Opera */
 }
 
 .explore-menu-list-item img {
