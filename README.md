@@ -1,6 +1,7 @@
 Project to create a fullstack website with ReactJS and VueJS
----![Screenshot 2024-08-07 001224](https://github.com/user-attachments/assets/be5dc1aa-8a57-40d4-8210-3fca883515f3)
-
+---
+![Screenshot 2024-08-07 001224](https://github.com/user-attachments/assets/be5dc1aa-8a57-40d4-8210-3fca883515f3)
+---
 # Food Delivery App
 
 This repository contains the code for a food delivery application. The application provides an API for front/backend communication.
